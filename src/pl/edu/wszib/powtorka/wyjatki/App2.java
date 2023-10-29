@@ -9,7 +9,6 @@ public class App2 {
         } catch (Exception e) {
             System.out.println("Jest wyjatek !!!");
         }
-
     }
 
     public static void generateException(int a) throws JakisMojException {
